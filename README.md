@@ -7,3 +7,5 @@ The site will offer data feeds, visualizations and analysis. Basically we want t
 The site will also offer old school activist organizing tools such as printable flyers, since the world will not change while you sit there. 
 
 Initial idea is to build the site using Node, but in later versions there should be sandboxed R, Python and Julia scripts running real-time data analysis.
+
+![Node.js CI](https://github.com/TomiToivio/Tulevaisuus/workflows/Node.js%20CI/badge.svg?branch=master)

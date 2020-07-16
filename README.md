@@ -8,4 +8,3 @@ The site will also offer old school activist organizing tools such as printable 
 
 Initial idea is to build the site using Node, but in later versions there should be sandboxed R, Python and Julia scripts running real-time data analysis.
 
-![Node.js CI](https://github.com/TomiToivio/Tulevaisuus/workflows/Node.js%20CI/badge.svg?branch=master)
